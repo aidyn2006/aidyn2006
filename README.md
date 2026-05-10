@@ -1,13 +1,13 @@
 # Hi there, I'm Aidyn 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=435&lines=Mid-level+Backend+Developer;Java+%7C+C%23+%7C+PHP+enthusiast;Building+products+people+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=378ADD&width=435&lines=Middle-level+Backend+Developer;Java+%7C+C%23+%7C+PHP+enthusiast;Building+products+people+use" alt="Typing SVG" />
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently working at **Documentolog** (ERG BTS) — enterprise document management solutions
-- 🏢 Previously at **uStudy** — ed-tech platform
+- 💼 Currently working at **Documentolog** — enterprise document management solutions
+- 🏢 Previously at **ERG BTS**
 - 🕐 ~2 years of commercial backend development experience
 - 🚀 Building and maintaining my own projects on the side
 - 📍 Based in Astana, Kazakhstan
@@ -34,8 +34,7 @@
 ## 💼 Experience
 
 ```
-Documentolog (ERG BTS)     │  Backend Developer  │  current
-uStudy                     │  Backend Developer  │  prev
+Documentolog     │  Backend Developer  │  current
 ```
 
 > ~2 years of commercial experience building scalable backend systems and REST APIs.

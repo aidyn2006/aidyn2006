@@ -46,7 +46,7 @@ Documentolog     │  Backend Developer  │  current
 ### [toi.com.kz](https://toi.com.kz)
 > Invitation generator platform — create and share beautiful event invitations online
 
-![Users](https://img.shields.io/badge/users-~2200-blue?style=flat-square)
+![Users](https://img.shields.io/badge/users-~2500-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
 
 ---
